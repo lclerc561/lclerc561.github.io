@@ -219,7 +219,7 @@ params:
       - job: "Président de la République"
         company: "La France"
         date: "Mai 2007 - Mai 2012"
-        content: "J'ai pû faire un stage de 5 ans en tant que résponsable managériale de service d'Etats à temps semi terciaire partiel, enfin bref président de la République !"
+        content: "J'ai pû faire un stage de 5 ans en tant que résponsable managériale de service d'Etats à temps semi tertiaire partiel, enfin bref président de la République !"
 
   # Education
   education:
