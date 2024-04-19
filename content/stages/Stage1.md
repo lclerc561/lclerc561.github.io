@@ -2,7 +2,6 @@
 title: "Stage 1ère année BTS SIO"
 date: 2022-05-30T22:53:58+05:30
 draft: false
-github_link: "https://github.com/gurusabarish/hugo-profile"
 author: "Clerc Léo"
 tags:
   - Stage
