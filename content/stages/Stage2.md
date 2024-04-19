@@ -12,6 +12,7 @@ toc:
 
 Pendant mon stage, j'ai du ajouter à une application un système permettant d'ajouter, modifier et de supprimer les différents objets de la base de données
 
+J'ai du aussi faire une application qui fait office de calendrier pour les taches de la secrétaire
 
 ![](/images/Stage2/GestionTache.png)
 
