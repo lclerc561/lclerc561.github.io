@@ -12,4 +12,7 @@ toc:
 
 Pendant mon stage, j'ai du ajouter à une application un système permettant d'ajouter, modifier et de supprimer les différents objets de la base de données
 
+
 ![](/images/Stage2/GestionTache.png)
+
+![](/images/Stage2/ajouttache.png)
