@@ -1,6 +1,6 @@
 ---
 title: "Stage 1ère année BTS SIO"
-date: 2022-05-30T22:53:58+05:30
+date: 2023-05-30T22:53:58+05:30
 draft: false
 author: "Clerc Léo"
 tags:
