@@ -12,3 +12,5 @@ toc:
 
 Pendant mon stage, j'ai du ajouter à une application un système d'authentification et de gestion d'accès.
 Selon les droits d'accès de l'utilisateur, les modules de l'application sont accessibles ou non
+
+![Titre de l'image](/images/Stage1/bddver5.PNG)
