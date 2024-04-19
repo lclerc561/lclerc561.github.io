@@ -3,19 +3,19 @@ title: "Stage 1ère année BTS SIO"
 date: 2022-05-30T22:53:58+05:30
 draft: false
 github_link: "https://github.com/gurusabarish/hugo-profile"
-author: "Gurusabarish"
+author: "Clerc Léo"
 tags:
-  - Emoji support
-  - Sample
-  - example
+  - Stage
 image: /images/Stage1/Accueil.PNG
-description: ""
+image: /images/Stage1/AuthentificationDesign.PNG
+description: "Le Stage que j'ai effectué pour ma première année de BTS SIO"
 toc: 
 ---
 
-Emoji can be enabled in a Hugo project in a number of ways. :zap:
+Pendant mon stage, j'ai du ajouter à une application un système d'authentification et de gestion d'accès.
 
 ## Emoji Support
+
 
 The [emojify](https://gohugo.io/functions/emojify/) function can be called directly in templates or [Inline Shortcodes](https://gohugo.io/templates/shortcode-templates/#inline-shortcodes).
 
