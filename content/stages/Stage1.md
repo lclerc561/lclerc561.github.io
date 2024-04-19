@@ -12,9 +12,3 @@ toc:
 
 Pendant mon stage, j'ai du ajouter à une application un système d'authentification et de gestion d'accès.
 Selon les droits d'accès de l'utilisateur, les modules de l'application sont accessibles ou non
-
-```
-.emoji {
-  font-family: Apple Color Emoji, Segoe UI Emoji, NotoColorEmoji, Segoe UI Symbol, Android Emoji, EmojiSymbols;
-}
-```
