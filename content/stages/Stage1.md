@@ -19,4 +19,5 @@ Shéma de la base de donnée
 J'ai du aussi créer une interface admin permettant de gerer les utilisateurs et leurs droits
 
 ![](/images/Stage1/GererUtilisateurs.PNG)
+
 ![](/images/Stage1/ModifierGroupes.PNG)
