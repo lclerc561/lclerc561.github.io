@@ -123,7 +123,7 @@ params:
   # Hero
   hero:
     enable: true
-    intro: "Bonjour, je suis"
+    intro: "Bonjour, zizi"
     title: "Nicolas Sarkozy"
     subtitle: "Et j'ai le plaisir de vous lire le temps des tempêtes sur audible"
     content: "En effet je suis autant passioné par les tornades que par les détournements de fond. Quelle indignité"
