@@ -5,7 +5,7 @@ draft: false
 author: "Clerc Léo"
 tags:
   - Stage
-image: /images/Stage2/RemplacerVM.png
+image: /images/Stage2/GestionTache.png
 description: "Le Stage que j'ai effectué pour ma seconde année de BTS SIO"
 toc: 
 ---
