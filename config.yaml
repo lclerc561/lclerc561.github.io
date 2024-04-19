@@ -223,16 +223,9 @@ params:
           name: "Lycée Edmé-Bouchardon Chaumont"
           url: "https://www.btsinfo.fr/"
         date: "2022 - 2024"
-        featuredLink:
-          enable: true
-          name: "My academic record"
-          url: "https://example.com"
       - title: "BAC général"
         school:
           name: "Lycée Diderot Langres"
-        featuredLink:
-          enable: true
-          url: "https://example.com"
 
 
 
