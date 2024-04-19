@@ -7,7 +7,6 @@ author: "Clerc Léo"
 tags:
   - Stage
 image: /images/Stage1/Accueil.PNG
-image: /images/Stage1/AuthentificationDesign.PNG
 description: "Le Stage que j'ai effectué pour ma première année de BTS SIO"
 toc: 
 ---
@@ -31,4 +30,8 @@ The [Emoji cheat sheet](http://www.emoji-cheat-sheet.com/) is a useful reference
 .emoji {
   font-family: Apple Color Emoji, Segoe UI Emoji, NotoColorEmoji, Segoe UI Symbol, Android Emoji, EmojiSymbols;
 }
+<figure>
+  <img src="/images/Stage1/AuthentificationDesign.PNG" alt="Description de l'image">
+  <figcaption>Titre de l'image</figcaption>
+</figure>
 ```
