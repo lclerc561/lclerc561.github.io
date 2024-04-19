@@ -171,25 +171,19 @@ params:
     enable: true
     # title: "Custom Name"
     items:
-      - job: "Senior Software Developer"
-        company: "Facebook"
-        date: "Jan 2022 - present"
-        content: "I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
 
-      - job: "Software Developer"
-        company: "Amazon"
-        date: "Sep 2020 - Dec 2021"
+      - job: "Résident à plein temps"
+        company: "Prison"
+        date: "Janvier 2020 - present"
         featuredLink:
           enable: true
-          url: "https://example.com"
+          url: "/images/Jail.jpg"
         info:
           enable: true
           content: I worked as a software developer for more than one year in Amazon.
         content: |
-          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
-
-          - Lead backend developer for a product.
-          - Created a frontend design for a product.
+          Pas de chance, j'ai fais un malaise vagal et à cause de certains problèmes j'ai fini en prison/
+          Au moins le voisinage est sympa
 
       - job: "Dresseur de pokemon à plein temps"
         company: "Niantic"
@@ -198,12 +192,9 @@ params:
           enable: false
         featuredLink:
           enable: true
-          url: "https://example.com"
+          url: "/images/Trempette.jpg"
         content: |
-          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
-
-          - Lead backend developer for a product.
-          - Created a frontend design for a product.
+          J'ai décider d'abandonner ma carrière de chanteur afin de pouvoir devenir un dresseur pokemon à plein temps.
 
       - job: "Chanteur"
         company: "Sexion Assaut"
